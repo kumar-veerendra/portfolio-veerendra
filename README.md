@@ -58,6 +58,6 @@ Visit 👉 [https://veerendrakumar-portfolio.netlify.app](https://veerendrakumar
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/veerendra-kumar](https://www.linkedin.com/in/veerendra-kumar)  
-- 🌐 Portfolio: [veerendrakumar-portfolio.netlify.app](https://)
+- 📧 Email: veerendrakumarbgs@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/veerendra-kumar](https://www.linkedin.com/in/kumar-veerendra/)  
+- 🌐 Portfolio: [veerendrakumar-portfolio.netlify.app](https://veerendrakumar-portfolio.netlify.app/)
